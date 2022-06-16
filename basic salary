@@ -10,4 +10,5 @@ printf (“Basic Salary of Ramesh = %f\n”, bp);
 printf (“Dearness Allowance = %f\n”, da);
 printf (“House Rent Allowance = %f\n”, hra);
 printf (“Gross Pay of Ramesh is %f\n”, grpay);
-return 0
+return 0;
+}
