@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int  sub1,sub2,sub3,sub4,sub5,totalpercentage;
+    cin>>sub1>>sub2>>sub3>>sub4>>sub5;
+    totalpercentage=((sub1+sub2+sub3+sub4+sub5)/500)*100;
+    cout<<totalpercentage<<endl;
+
+
+    return 0;
+}
